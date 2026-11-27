@@ -6,7 +6,7 @@ nav a { color: white; text-decoration: none; margin-right: 20px; }
 #accueil { background: beige; padding: 60px 20px; text-align: center; }
 #accueil a { color: darkgreen; font-weight: bold; }
 #produits { padding: 40px 20px; }
-.cartes { display: flex; gap: 20px; }
+.cartes { display: flex; flex-wrap: wrap; gap: 20px; }
 .carte { width: 300px; border: 1px solid #ccc; padding: 15px; }
 .carte img { width: 100%; }
 .prix { font-weight: bold; color: darkgreen; }
