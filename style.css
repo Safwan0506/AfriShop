@@ -10,3 +10,5 @@ nav a { color: white; text-decoration: none; margin-right: 20px; }
 .carte { width: 300px; border: 1px solid #ccc; padding: 15px; }
 .carte img { width: 100%; }
 .prix { font-weight: bold; color: darkgreen; }
+#contact { padding: 40px 20px; background: beige; }
+footer { background: green; color: white; text-align: center; padding: 15px; }
